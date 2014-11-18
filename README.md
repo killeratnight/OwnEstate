@@ -1,5 +1,5 @@
 #OwnEstate
-A Bukkit plugin designed for players to own land based on chunks on a bukkit server, it allowes for creation of different player created estates to which they can invite friends into.
+A Bukkit plugin designed for players to own land based on chunks on a bukkit server, it allows for creation of different player created estates to which they can invite friends into.
 
 ##Planned Features:
 * Player owned Chunk protected Estates.
