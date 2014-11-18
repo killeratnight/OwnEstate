@@ -1,0 +1,8 @@
+name: OwnEstate
+version: 1.0
+description: A chunk based protection plugin.
+author: killeratnight
+main: me.killeratnight.ownestate.main.OwnEstate
+database: false
+load: postworld
+prefix: OwnEstate
